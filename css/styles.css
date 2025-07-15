@@ -244,6 +244,7 @@ ul {
 	line-height: 1.5;
 	letter-spacing: 0.02em;
 	color: #434455;
+	margin-bottom: 8px;
 }
 .team-social-media-list {
 	display: flex;
@@ -407,4 +408,18 @@ li {
 }
 .footer-media-link:focus {
 	background-color: #31d0aa;
+}
+.footer-input-paragraph {
+	margin-bottom: 16px;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #ffffff;
+}
+.footer-input-form {
+	display: flex;
+}
+.footer-input-label {
+	gap: 24px;
 }
