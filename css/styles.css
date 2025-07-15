@@ -419,7 +419,8 @@ li {
 }
 .footer-input-form {
 	display: flex;
+	gap: 24px;
 }
 .footer-input-label {
-	gap: 24px;
+
 }
