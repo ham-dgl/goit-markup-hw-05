@@ -611,7 +611,5 @@ li {
 .modal-form-checkbox:checked + .modal-form-checkbox-label .modal-checkbox-label-span {
 	background-color: var(--checked-bg);
 	border: none;
-}
-.modal-form-checkbox:checked + .modal-form-checkbox-label .modal-svg-checkbox {
 	fill: var(--icon-color);
 }
